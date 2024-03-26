@@ -1105,4 +1105,4 @@ FAILED API_testing-master/tests/test_objects.py::TestObjects::test_put_object_se
 FAILED API_testing-master/tests/test_objects.py::TestObjects::test_put_object_update_non_exist_obj - AssertionError: В ТЕЛЕ ОТВЕТА в json следующие поля не совпали с эталоном:
 FAILED API_testing-master/tests/test_objects.py::TestObjects::test_delete_exist_object - AssertionError: В КОДЕ ОТВЕТА
 FAILED API_testing-master/tests/test_objects.py::TestObjects::test_delete_not_exist_object - AssertionError: В ТЕЛЕ ОТВЕТА в json следующие поля не совпали с эталоном:
-================================================================================= 16 failed in 3.84s ================================================================================== 
+================================================================================= 16 failed in 3.84s ==================================================================================
